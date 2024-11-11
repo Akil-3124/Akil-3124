@@ -87,10 +87,3 @@
   <img src="https://profile-counter.glitch.me/Akil-3124/count.svg?"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Akil-3124/Akil-3124/output/snake.svg" alt="Snake animation" />
-
-###
